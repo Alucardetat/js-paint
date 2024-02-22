@@ -1,3 +1,11 @@
+body{
+  background-image: linear-gradient( to top right, rgba(79,51,176,1.0),rgba(210,53,165));
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+}
+
 .app {
   display: flex;
   flex-direction: column;
